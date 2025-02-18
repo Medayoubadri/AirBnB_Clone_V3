@@ -1,0 +1,9 @@
+mysqlclient
+SQLAlchemy
+pycodestyle
+python-dotenv
+pep8
+Flask
+Flask-Cors
+unittest2
+fabric==1.14.0
